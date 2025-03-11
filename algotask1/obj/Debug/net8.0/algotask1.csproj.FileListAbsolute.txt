@@ -1,0 +1,14 @@
+C:\Users\AA\Desktop\algotask1\bin\Debug\net8.0\algotask1.exe
+C:\Users\AA\Desktop\algotask1\bin\Debug\net8.0\algotask1.deps.json
+C:\Users\AA\Desktop\algotask1\bin\Debug\net8.0\algotask1.runtimeconfig.json
+C:\Users\AA\Desktop\algotask1\bin\Debug\net8.0\algotask1.dll
+C:\Users\AA\Desktop\algotask1\bin\Debug\net8.0\algotask1.pdb
+C:\Users\AA\Desktop\algotask1\obj\Debug\net8.0\algotask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AA\Desktop\algotask1\obj\Debug\net8.0\algotask1.AssemblyInfoInputs.cache
+C:\Users\AA\Desktop\algotask1\obj\Debug\net8.0\algotask1.AssemblyInfo.cs
+C:\Users\AA\Desktop\algotask1\obj\Debug\net8.0\algotask1.csproj.CoreCompileInputs.cache
+C:\Users\AA\Desktop\algotask1\obj\Debug\net8.0\algotask1.dll
+C:\Users\AA\Desktop\algotask1\obj\Debug\net8.0\refint\algotask1.dll
+C:\Users\AA\Desktop\algotask1\obj\Debug\net8.0\algotask1.pdb
+C:\Users\AA\Desktop\algotask1\obj\Debug\net8.0\algotask1.genruntimeconfig.cache
+C:\Users\AA\Desktop\algotask1\obj\Debug\net8.0\ref\algotask1.dll
